@@ -1,3 +1,2 @@
-## This is a markdown file2
-test test
+## This is a markdown file
 
